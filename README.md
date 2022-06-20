@@ -29,9 +29,11 @@ Faça o seu melhor front desenvolvendo a tela projetada lá no começo
 
 Ah, se você conhece React e quer fazer nele, será muito apreciado.
 
-Não se esquça: o mais importante é desenvolver a tela! A linguagem a gente vê depois!
+Não se esqueça: o mais importante é desenvolver a tela! A linguagem a gente vê depois!
 
 Ao término, basta colocar em um repositório e enviar o link para a gente.
+
+Ah, não se esqueça de colocar o link do Figma em um arquivo chamado figma.txt na raiz do projeto.
 
 Viu como é fácil?
 
